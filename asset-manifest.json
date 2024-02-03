@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-landing-Page%20/static/css/main.dcfd2082.css",
+    "main.js": "/react-landing-Page%20/static/js/main.2cc3320d.js",
+    "static/media/laptop.jpg": "/react-landing-Page%20/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/single.png": "/react-landing-Page%20/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/react-landing-Page%20/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/react-landing-Page%20/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/react-landing-Page%20/index.html",
+    "main.dcfd2082.css.map": "/react-landing-Page%20/static/css/main.dcfd2082.css.map",
+    "main.2cc3320d.js.map": "/react-landing-Page%20/static/js/main.2cc3320d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcfd2082.css",
+    "static/js/main.2cc3320d.js"
+  ]
+}
